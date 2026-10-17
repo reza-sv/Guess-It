@@ -1,0 +1,65 @@
+.brain-ico{
+  font-size: clamp(50px,6vh,80px);
+  color: aqua;
+}
+
+.info-ico{
+  font-size: clamp(30px,6vh,40px);
+  color: #3987FF;
+  border: 2px solid rgb(95, 174, 240);
+  border-radius: 20px;
+}
+
+.info-txt{
+  font-size: 13px;
+}
+
+.number-input{
+  background: rgb(14, 2, 41);
+}
+
+.attempts-box{
+  background: #071322;
+  border: 1px solid #51565e ;
+}
+
+.game-box{
+  border: 1px solid #353c44;
+  padding: 50px;
+  border-radius: 25px;
+  background: #070f1a;
+}
+
+.linee-start{
+  border-top: 1px solid white;
+  width: 100%;
+  border-color: #1800f5;
+}
+.center-textt{
+  font-size: 13px;
+  color: white;
+}
+.linee-end{
+  border-top: 1px solid white;
+  width: 100%;
+  border-color: #1800f5;
+}
+
+.state-box{
+  line-height: 5px;
+}
+
+
+@keyframes fadeIn {
+    from { opacity: 0; }
+    to { opacity: 1; }
+}
+
+.fadeIn {
+  animation: fadeIn 0.5s ease-in; 
+  background: #0d3668 ;
+  border-radius: 10px;
+  margin-top: 16px;
+  padding: 5px;
+  color: white;
+}
