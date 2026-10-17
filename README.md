@@ -36,13 +36,13 @@ Make sure you have [Node.js](https://nodejs.org/en/download) installed on your s
 1. Clone the repository:
 
    ```bash
-   git clone YOUR_REPOSITORY_URL
+   git clone https://github.com/reza-sv/Guess-It.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd YOUR_PROJECT_FOLDER
+   cd Guess-It
    ```
 
 3. Install dependencies:
@@ -58,6 +58,7 @@ Make sure you have [Node.js](https://nodejs.org/en/download) installed on your s
    ```
 
 5. Open the local URL shown in your terminal in your browser.
+
 
 ## 🏗️ Build
 
